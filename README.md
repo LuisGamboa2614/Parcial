@@ -1,5 +1,5 @@
 # Parcial
-Solución del parcial
+Solución del parcial \n
 1.
 <img width="331" height="85" alt="image" src="https://github.com/user-attachments/assets/a1bd448b-9de0-4972-bd1f-c6b4f6259229" />
 2.
